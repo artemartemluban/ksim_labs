@@ -9,10 +9,6 @@
 
 ### Налаштування середовища BehaviorSearch:
 
-**Обрана модель**:
-<pre>
-C:\Users\user\Desktop\labs\ksim_labs\lab3\Climate Change_orig.nlogo
-</pre>
 **Параметри моделі** (вкладка Model):  
 <pre>
 ["sun-brightness" [0 0.2 5]]
